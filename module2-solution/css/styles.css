@@ -26,7 +26,7 @@ body > p {
 
 div > div {
 	border: 1px solid black;
-	background-color: gray;
+	background-color: #989a9e;
 }
 
 p.big {
@@ -45,21 +45,21 @@ p.big {
 
 .chicken {
 	width: 150px;
-	background-color: pink;
+	background-color: #f07da3;
 	height: auto;
 	margin: 0rem;
 }
 
 .beef {
 	width: 150px;
-	background-color: red;
+	background-color: #f24e53;
 	height: auto;
 	color: white;
 }
 
 .sushi {
 	width: 150px;
-	background-color: yellow;
+	background-color: #f2d44e;
 	height: auto;
 }
 
@@ -81,7 +81,7 @@ p.big {
 
 	.design2 {
 	    float: left;
-		width: 93.5%;
+		width: 93.6%;
 		margin: 1rem;
 	}
   
