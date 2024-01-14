@@ -1,0 +1,60 @@
+
+* {
+	box-sizing: border-box;
+	font-family: cursive;
+	color: black;
+}
+
+body > p {
+	font-size: 24.5px;
+	font-weight: bold;
+	margin: 2rem;
+}
+
+div p {
+	margin: 1rem;
+	font-size: 14px;
+}
+
+p.title {
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.design1 {
+	position: relative;
+	background-color: #989a9e;
+	padding: 0rem;
+	padding-bottom: 1rem;
+}
+
+.border-nav {
+	border-bottom: 2px solid black;
+}
+
+#header-nav {
+	border-radius: 0;
+	border: 2px solid black;
+	text-align: left;
+	margin: 0;
+	background-color: #989a9e;
+}
+
+#body-nav {
+	background-color: #989a9e;
+	width: 100%;
+}
+
+#title-nav {
+	color: black !important;
+}
+
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+
+#collapsable-nav {
+	background-color: #ffff;
+	border: 1px solid black;
+}
